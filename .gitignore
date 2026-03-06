@@ -1,0 +1,25 @@
+# Dados brutos (não versionar)
+1_dados/
+*.csv
+*.xlsx
+*.zip
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
