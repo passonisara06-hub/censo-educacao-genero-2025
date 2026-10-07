@@ -1,6 +1,6 @@
 # 📊 Guia Completo: Dashboards Tableau - Censo Escolar 2025
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** 06 de março de 2026
 **Plataforma:** Tableau Desktop / Tableau Public
 **Objetivo:** Criar 5 painéis interativos no Tableau
@@ -809,7 +809,7 @@ States: Sul, Sudeste
 
 ---
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** 06 de março de 2026
 **Versão:** 1.0
 

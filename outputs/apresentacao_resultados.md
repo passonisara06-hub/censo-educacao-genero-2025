@@ -147,6 +147,6 @@ no pior cenário.
 
 ---
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** Setembro de 2026
 **Versão:** 2.3 (funil por etapa + rigor estatístico)

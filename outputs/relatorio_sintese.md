@@ -1,7 +1,7 @@
 # 📊 Relatório de Síntese: Desigualdades de Gênero na Educação Básica Brasileira
 
 **Data:** Setembro de 2026 (v2.3)
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Fonte:** Censo Escolar 2025 - INEP
 
 ---
@@ -429,7 +429,7 @@ Esses resultados refinam as narrativas sobre o "teto de vidro" na educação: a 
 ---
 
 **Desenvolvido com ❤️ por Sara**
-Mestra em Educação | Análise de Dados Educacionais
+Mestra em Ensino de Humanidades (IFES) | Análise de Dados Educacionais
 
 **Data:** Março de 2026
 **Versão:** 2.3 (docência × gestão, interseccionalidade, IFR municipal, funil por etapa, rigor estatístico)

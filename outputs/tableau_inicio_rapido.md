@@ -448,6 +448,6 @@ A visualização é intuitiva, bonita e muito fácil de criar interatividade!
 
 ---
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** 06 de março de 2026
 **Versão:** 1.0

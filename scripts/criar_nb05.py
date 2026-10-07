@@ -13,7 +13,7 @@ md_title = nbformat.v4.new_markdown_cell(
 
 ## Desigualdades de Gênero na Educação Básica Brasileira (v2.2)
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 
 ### 🎯 Perguntas deste notebook
 

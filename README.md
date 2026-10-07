@@ -4,15 +4,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
 ---
 
 ## 📌 **Sobre o Projeto**
 
 Este repositório contém uma análise exploratória dos microdados do **Censo Escolar 2025** (INEP), com foco em **desigualdades de gênero** na educação básica brasileira. A pesquisa investiga tanto a distribuição de **matrículas** por gênero quanto a **composição da gestão escolar**, revelando padrões contraintuitivos que desafiam narrativas tradicionais sobre o "teto de vidro" na educação.
 
-**Autora:** Sara - Mestra em Educação  
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)  
 **Áreas:** Educação, Gênero, Análise de Dados, Políticas Públicas  
 **Fonte dos dados:** [INEP - Microdados do Censo Escolar 2025](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)
 
@@ -41,55 +39,27 @@ Este repositório contém uma análise exploratória dos microdados do **Censo E
 ## 🗂️ **Estrutura do Projeto**
 
 
-censo_genero_2025/
-
-│
-
-├── 1_dados/                      # Dados brutos (não versionados)
-
-│   └── (arquivos do INEP)
-
-│
-
-├── 2_notebooks/                   # Análises em Jupyter
-
+```
+censo-educacao-genero-2025/
+├── data/                          # Dados do INEP (não versionados)
+├── notebooks/                     # Análises em Jupyter Notebook
 │   ├── 01_carregamento_e_limpeza.ipynb
-
 │   ├── 02_analise_matriculas_por_genero.ipynb
-
 │   ├── 03_analise_gestao_escolar.ipynb
-
-│   └── 04_sintese_e_visualizacoes.ipynb
-
-│
-
-├── 3_outputs/                     # Resultados gerados
-
+│   ├── 04_sintese_e_visualizacoes.ipynb
+│   ├── 05_analise_interseccional.ipynb
+│   └── 06_funil_e_rigor.ipynb
+├── outputs/                       # Resultados gerados
 │   ├── figures/                   # Gráficos em PNG
-
-│   └── resumo_executivo.csv       # Métricas principais
-
-│
-
-├── 4_scripts/                      # Códigos auxiliares
-
-│   └── config.py                   # Configurações e cores
-
-│
-
-├── docs/                           # Documentação
-
-│   ├── apresentacao_resultados.md  # Apresentação executiva
-
-│   └── relatorio_sintese.md        # Relatório completo
-
-│
-
-├── requirements.txt                # Dependências
-
-├── LICENSE                         # Licença MIT
-
-└── README.md                        # Este arquivo
+│   ├── relatorio_sintese.md       # Relatório completo
+│   ├── apresentacao_resultados.md # Apresentação executiva
+│   ├── resumo_executivo.csv       # Métricas principais
+│   └── *_guia_dashboard.md        # Guias de Tableau e Power BI
+├── scripts/                       # Códigos auxiliares
+│   └── config.py                  # Configurações e cores
+├── requirements.txt               # Dependências
+└── README.md                      # Este arquivo
+```
 
 
 ---

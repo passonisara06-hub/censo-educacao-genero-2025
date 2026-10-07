@@ -1,6 +1,6 @@
 # 📊 Guia Completo: Dashboards Power BI - Censo Escolar 2025
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** 06 de março de 2026
 **Objetivo:** Criar 5 painéis interativos no Power BI
 
@@ -677,7 +677,7 @@ Direção: Horizontal
 
 ---
 
-**Autora:** Sara - Mestra em Educação
+**Autora:** Sara Abreu Passoni - Mestra em Ensino de Humanidades (IFES)
 **Data:** 06 de março de 2026
 **Versão:** 1.0
 
